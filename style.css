@@ -1,5 +1,5 @@
 *{
-    box-sizing: content-box;
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -21,7 +21,7 @@ body{
     min-height: 250px;
     max-width: 250px;
     padding: 20px;
-    border-radius: 10%;
+    border-radius: 12px;
     
 }
 
